@@ -12,7 +12,6 @@
   {
     "repository": "raystef66/InfiniR_kernel_alioth",
     "target_path": "kernel/xiaomi/alioth",
-    "branch": "lineage-19.1"
+    "branch": "12.1-alioth"
   }
-
 ]
