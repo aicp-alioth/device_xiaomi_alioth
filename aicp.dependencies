@@ -8,4 +8,10 @@
     "target_path": "hardware/xiaomi",
     "branch": "lineage-19.1"
   }
+  {
+    "repository": "raystef66/InfiniR_kernel_alioth",
+    "target_path": "kernel/xiaomi/alioth",
+    "branch": "lineage-19.1"
+  }
+
 ]
